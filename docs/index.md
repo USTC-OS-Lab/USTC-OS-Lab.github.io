@@ -7,11 +7,14 @@
 
 ## 实验文件下载
 
+### 必做实验
 - 实验一：[熟悉Linux](lab/lab1.md)
 - 实验二：[添加Linux系统调用](lab/lab2.md)
 - 实验三：[内存分配器](lab/lab3.md)
 - 实验四：[鸿蒙OS基础实验](lab/lab4.md)
 - 实验五：[文件系统实验](lab/lab5.md)
+
+### 选做实验
 - 实验六：[鸿蒙文件备份工具实验](lab/lab6.md)
 - 实验七：[鸿蒙LVGL移植实验](lab/lab7.md)
 - 实验八：[温度传感器实验](lab/lab8.md)
