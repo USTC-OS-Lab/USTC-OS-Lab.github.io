@@ -29,4 +29,4 @@ jobs:
 
       - name: deploy
         if: always()
-        run: mkdocs gh-deploy --force
+        run: mkdocs serve
