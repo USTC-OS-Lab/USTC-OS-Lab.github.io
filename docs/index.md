@@ -8,20 +8,20 @@
 ## 实验文件下载
 
 ### 必做实验
-- 实验一：[熟悉Linux](lab/lab1.md)
-- 实验二：[添加Linux系统调用](lab/lab2.md)
-- 实验三：[内存分配器](lab/lab3.md)
-- 实验四：[鸿蒙OS基础实验](lab/lab4.md)
-- 实验五：[文件系统实验](lab/lab5.md)
+- 实验1：[熟悉Linux](lab/lab1.md)
+- 实验2：[添加Linux系统调用](lab/lab2.md)
+- 实验3：[内存分配器](lab/lab3.md)
+- 实验4：[鸿蒙OS基础实验](lab/lab4.md)
+- 实验5：[文件系统实验](lab/lab5.md)
 
 ### 选做实验
-- 实验六：[鸿蒙文件备份工具实验](lab/lab6.md)
-- 实验七：[鸿蒙LVGL移植实验](lab/lab7.md)
-- 实验八：[温度传感器实验](lab/lab8.md)
+- 实验6-1：[鸿蒙文件备份工具实验](lab/lab6.md)
+- 实验6-2：[鸿蒙LVGL移植实验](lab/lab7.md)
+- 实验6-3：[温度传感器实验](lab/lab8.md)
 
 ## 操作系统原理与设计慕课
 
-[操作系统原理与设计慕课 - Bilibili](https://space.bilibili.com/3546635292379669?spm_id_from=333.1007.0.0)
+[操作系统原理与设计慕课 - Bilibili](https://www.bilibili.com/video/BV1LpiRYVE5e/?spm_id_from=333.1387.homepage.video_card.click&vd_source=8a8031604a75b3a3df4e1de7e4dfe2db)
 
 
 
